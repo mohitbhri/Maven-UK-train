@@ -1,9 +1,9 @@
-🚄 UK Train Travel Power BI Project | Maven Analytics Challenge
+# 🚄 UK Train Travel Power BI Project | Maven Analytics Challenge
 I'm thrilled to share my first Power BI project, proudly done as part of a challenge by Maven Analytics! 💻
 
 This dashboard dives into UK train travel data, offering insights into various aspects such as:
 
-🔍 Key Data Dimensions:
+🔍 Key Data Dimensions
 🚉 Departure & Arrival Stations
 
 🎟️ Ticket Types
@@ -29,7 +29,7 @@ dim_delay_reason
 
 ...and more
 
-📊 Key Findings
+## 📊 Key Findings
 💰 Total Revenue: €741.92K
 
 🚆 Total Trips: 32K
@@ -65,5 +65,3 @@ This project helped me strengthen my skills in:
 
 📈 Insight Communication
 
-I'm excited to keep learning, improving, and building more data-driven solutions in Power BI!
-Feel free to check out the project and share your feedback! 
