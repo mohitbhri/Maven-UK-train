@@ -30,15 +30,15 @@ dim_delay_reason
 ...and more
 
 ## 📊 Key Findings
-💰 Total Revenue: €741.92K
+💰 Total Revenue: £741.92K
 
 🚆 Total Trips: 32K
 
-💸 Total Refund Amount: €39K
+💸 Total Refunds: £39K
 
-✅ Net Revenue: €703K
+✅ Net Revenue: £703K
 
-📅 Busiest Day: Wednesday (4,692 trips), followed by Tuesday (4,607)
+📅 Busiest Day: Wednesday (4,692 trips)
 
 ⏱️ Punctuality:
 
